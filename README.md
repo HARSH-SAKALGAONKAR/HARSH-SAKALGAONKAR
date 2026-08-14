@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HARSH-SAKALGAONKAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=HARSH-SAKALGAONKAR&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=HARSH-SAKALGAONKAR&icon=0&color=0)](https://visitcount.itsvg.in) JAVA Python
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
